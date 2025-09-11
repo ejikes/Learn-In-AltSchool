@@ -93,7 +93,6 @@ body{
 
 .form-wrapper input {
   border: 1px solid #dedede;
-  font-size: 14px;
   padding: 20px;
   border-radius: 10px;
   font-size: 1rem;
@@ -166,7 +165,7 @@ body{
 }
 
 .form-wrapper{
-  margin-top: ;
+  margin-bottom: 80px;
   padding-bottom: 30px;
    box-shadow: 0 0 5px rgba(0,0,0,.1);
 }
